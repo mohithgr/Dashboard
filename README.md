@@ -7,5 +7,3 @@
 <img src="/screenshots/Screenshot_1.png.png" width = 500>
 <img src="/screenshots/Screenshot_2.png.png" width = 500>
 <img src="/screenshots/Screenshot_3.png.png" width = 500>
-
-Time: 5 hrs
